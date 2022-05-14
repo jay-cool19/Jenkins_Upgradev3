@@ -1,7 +1,11 @@
 <html>
+<head>Jenkins Demo</head>
 <body>
-<h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
-<h3>Jenkins Is Too Good</h3>
-<p>You will get many more here...</p>
+<h6> Jenkins Demo </h6>   
+<h5> Jenkins Demo </h5>  
+<h4> Jenkins Demo </h4>  
+<h3> Jenkins Demo </h3>  
+<h2> Jenkins Demo </h2>  
+<h1> Jenkins Demo </h1> 
 </body>
 </html>
